@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yassine essadi
-- 👀 I’m web web developer & s
-- 🌱 I’m currently learning React phaser 3
+- 👀 I’m web web & software developer
+- 🌱 I’m currently freelancer
 <!---
 hi there!
 visit or site:
