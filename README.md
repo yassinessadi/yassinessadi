@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yassine essadi
-- 👀 I’m web web & software developer
-- 🌱 I’m currently freelancer
+- 👀 I’m .net developer
+- 🌱 I’m currently freelancer as android developer using xamarin android and REST API.
+- 
 <!---
 hi there!
 visit or site:
