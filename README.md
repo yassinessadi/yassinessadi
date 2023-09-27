@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋+I'm +Yassine+Essadi;I'm+.Net+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinessadi&label=Profile%20views&color=0e75b6&style=flat" alt="yassinessadi" /> </p>
