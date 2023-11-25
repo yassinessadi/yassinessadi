@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi 👋+I'm +Yassine+Essadi;I'm+.Net+developer" alt="yassinessadi" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi 👋+I'm +ESSADI+Yassine;I'm+Data Developer" alt="yassinessadi" />
 
 Hello there! 👋<br><br>I'm passionate about technology and currently immersed in the world of big data, exploring its vast capabilities.<br><br>📫 How to Reach Me<br>You can reach out to me at yasine.esadi@gmail.com. Whether you want to discuss a project, have a tech-related chat, or just say hi, I'm always open to connecting! Let's build something amazing together.<br>
 
